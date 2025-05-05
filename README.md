@@ -242,7 +242,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Biruk G. Jember**
-- GitHub: [@yourusername](https://github.com/Biruk-gebru)
+- GitHub: [@Biruk-gebru](https://github.com/Biruk-gebru)
 
 ## 🙏 Acknowledgments
 
