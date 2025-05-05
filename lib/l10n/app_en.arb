@@ -1,0 +1,738 @@
+{
+  "appTitle": "Dube",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "darkMode": "Dark Mode",
+  "@darkMode": {
+    "description": "Dark mode toggle label"
+  },
+  "language": "Language",
+  "@language": {
+    "description": "Language selection label"
+  },
+  "english": "English",
+  "@english": {
+    "description": "English language name"
+  },
+  "amharic": "Amharic",
+  "@amharic": {
+    "description": "Amharic language name"
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings title"
+  },
+  "profile": "Profile",
+  "@profile": {
+    "description": "Profile title"
+  },
+  "logout": "Logout",
+  "@logout": {
+    "description": "Logout button text"
+  },
+  "close": "Close",
+  "@close": {
+    "description": "Close button text"
+  },
+  "products": "Products",
+  "@products": {
+    "description": "Products tab label"
+  },
+  "customers": "Customers",
+  "@customers": {
+    "description": "Customers tab label"
+  },
+  "reconciliation": "Reconciliation",
+  "@reconciliation": {
+    "description": "Reconciliation tab label"
+  },
+  "summary": "Summary",
+  "@summary": {
+    "description": "Summary tab label"
+  },
+  "myCustomers": "My Customers",
+  "@myCustomers": {
+    "description": "My Customers tab label"
+  },
+  "myCustomersTooltip": "My Customers",
+  "@myCustomersTooltip": {
+    "description": "Tooltip for my customers tab"
+  },
+  "addCustomers": "Add Customers",
+  "@addCustomers": {
+    "description": "Add Customers tab label"
+  },
+  "addCustomersTooltip": "Add Customers",
+  "@addCustomersTooltip": {
+    "description": "Tooltip for add customers tab"
+  },
+  "noProductsYet": "No products yet",
+  "@noProductsYet": {
+    "description": "Empty state message for products screen"
+  },
+  "noCustomersYet": "No customers yet",
+  "@noCustomersYet": {
+    "description": "Empty state message for customers screen"
+  },
+  "addProduct": "Add Product",
+  "@addProduct": {
+    "description": "Add product button and dialog title"
+  },
+  "editProduct": "Edit Product",
+  "@editProduct": {
+    "description": "Edit product dialog title"
+  },
+  "deleteProduct": "Delete Product",
+  "@deleteProduct": {
+    "description": "Delete product dialog title"
+  },
+  "confirmDeleteProduct": "Are you sure you want to delete {name}?",
+  "@confirmDeleteProduct": {
+    "description": "Delete product confirmation message",
+    "placeholders": {
+      "name": {
+        "type": "String",
+        "example": "Product name"
+      }
+    }
+  },
+  "name": "Name",
+  "@name": {
+    "description": "Name field label"
+  },
+  "stock": "Stock",
+  "@stock": {
+    "description": "Stock field label"
+  },
+  "price": "Price",
+  "@price": {
+    "description": "Price field label"
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Cancel action button text"
+  },
+  "add": "Add",
+  "@add": {
+    "description": "Add button text"
+  },
+  "save": "Save",
+  "@save": {
+    "description": "Save button text"
+  },
+  "delete": "Delete",
+  "@delete": {
+    "description": "Delete/Remove action button text"
+  },
+  "pleaseEnterName": "Please enter a name",
+  "@pleaseEnterName": {
+    "description": "Name field validation message"
+  },
+  "pleaseEnterStock": "Please enter stock quantity",
+  "@pleaseEnterStock": {
+    "description": "Stock field validation message"
+  },
+  "pleaseEnterValidNumber": "Please enter a valid number",
+  "@pleaseEnterValidNumber": {
+    "description": "Validation message for number fields"
+  },
+  "pleaseEnterPrice": "Please enter a price",
+  "@pleaseEnterPrice": {
+    "description": "Price field validation message"
+  },
+  "errorLoadingProducts": "Error loading products: {error}",
+  "@errorLoadingProducts": {
+    "description": "Error message when loading products fails",
+    "placeholders": {
+      "error": {
+        "type": "String",
+        "example": "Network error"
+      }
+    }
+  },
+  "errorAddingProduct": "Error adding product: {error}",
+  "@errorAddingProduct": {
+    "description": "Error message when adding a product fails",
+    "placeholders": {
+      "error": {
+        "type": "String",
+        "example": "Network error"
+      }
+    }
+  },
+  "errorUpdatingProduct": "Error updating product: {error}",
+  "@errorUpdatingProduct": {
+    "description": "Error message when updating a product fails",
+    "placeholders": {
+      "error": {
+        "type": "String",
+        "example": "Network error"
+      }
+    }
+  },
+  "errorDeletingProduct": "Error deleting product: {error}",
+  "@errorDeletingProduct": {
+    "description": "Error message when deleting a product fails",
+    "placeholders": {
+      "error": {
+        "type": "String",
+        "example": "Network error"
+      }
+    }
+  },
+  "confirmDeleteCustomer": "Are you sure you want to remove {name} from your customers?",
+  "@confirmDeleteCustomer": {
+    "description": "Delete customer confirmation message",
+    "placeholders": {
+      "name": {
+        "type": "String",
+        "example": "Customer name"
+      }
+    }
+  },
+  "customerRemoved": "{name} removed from customers",
+  "@customerRemoved": {
+    "description": "Customer removed success message",
+    "placeholders": {
+      "name": {
+        "type": "String",
+        "example": "Customer name"
+      }
+    }
+  },
+  "errorRemovingCustomer": "Error removing customer: {error}",
+  "@errorRemovingCustomer": {
+    "description": "Error message when removing a customer fails",
+    "placeholders": {
+      "error": {
+        "type": "String",
+        "example": "Network error"
+      }
+    }
+  },
+  "searchUsers": "Search Users",
+  "@searchUsers": {
+    "description": "Search users field label"
+  },
+  "noUsersFound": "No users found",
+  "@noUsersFound": {
+    "description": "No users found message"
+  },
+  "noUsersMatchSearch": "No users match your search",
+  "@noUsersMatchSearch": {
+    "description": "No users match search message"
+  },
+  "customer": "Customer",
+  "@customer": {
+    "description": "Customer label"
+  },
+  "confirm": "Confirm",
+  "@confirm": {
+    "description": "Confirm dialog title"
+  },
+  "addTransaction": "Add Transaction",
+  "@addTransaction": {
+    "description": "Add transaction button text"
+  },
+  "addTransactionTooltip": "Add Transaction",
+  "@addTransactionTooltip": {
+    "description": "Tooltip for add transaction button"
+  },
+  "errorAddingTransaction": "Failed to add transaction: {error}",
+  "@errorAddingTransaction": {
+    "description": "Error message shown when adding a transaction fails",
+    "placeholders": {
+      "error": {
+        "type": "String",
+        "example": "Network error"
+      }
+    }
+  },
+  "transactionAddedSuccessfully": "Transaction added successfully",
+  "@transactionAddedSuccessfully": {
+    "description": "Success message when transaction is added"
+  },
+  "failedToAddTransaction": "Failed to add transaction. Please try again.",
+  "@failedToAddTransaction": {
+    "description": "Error message when transaction addition fails"
+  },
+  "editCustomer": "Edit Customer",
+  "@editCustomer": {
+    "description": "Edit customer dialog title"
+  },
+  "deleteCustomer": "Delete Customer",
+  "@deleteCustomer": {
+    "description": "Delete customer dialog title"
+  },
+  "addCustomer": "Add Customer",
+  "@addCustomer": {
+    "description": "Add customer button and dialog title"
+  },
+  "phoneNumber": "Phone Number",
+  "@phoneNumber": {
+    "description": "Phone number field label"
+  },
+  "update": "Update",
+  "@update": {
+    "description": "Update button text"
+  },
+  "errorUpdatingCustomer": "Error updating customer: {error}",
+  "@errorUpdatingCustomer": {
+    "description": "Error message when updating a customer fails",
+    "placeholders": {
+      "error": {
+        "type": "String",
+        "example": "Network error"
+      }
+    }
+  },
+  "errorDeletingCustomer": "Error deleting customer: {error}",
+  "@errorDeletingCustomer": {
+    "description": "Error message when deleting a customer fails",
+    "placeholders": {
+      "error": {
+        "type": "String",
+        "example": "Network error"
+      }
+    }
+  },
+  "errorAddingCustomer": "Error adding customer: {error}",
+  "@errorAddingCustomer": {
+    "description": "Error message when adding a customer fails",
+    "placeholders": {
+      "error": {
+        "type": "String",
+        "example": "Network error"
+      }
+    }
+  },
+  "errorLoadingCustomers": "Error loading customers: {error}",
+  "@errorLoadingCustomers": {
+    "description": "Error message when loading customers fails",
+    "placeholders": {
+      "error": {
+        "type": "String",
+        "example": "Network error"
+      }
+    }
+  },
+  "customerAlreadyExists": "{name} is already your customer",
+  "@customerAlreadyExists": {
+    "description": "Message when trying to add an existing customer",
+    "placeholders": {
+      "name": {
+        "type": "String",
+        "example": "Customer name"
+      }
+    }
+  },
+  "customerAdded": "{name} added as a customer",
+  "@customerAdded": {
+    "description": "Message when customer is added successfully",
+    "placeholders": {
+      "name": {
+        "type": "String",
+        "example": "Customer name"
+      }
+    }
+  },
+  "transactionWith": "Transaction with {name}",
+  "@transactionWith": {
+    "description": "Transaction dialog title with customer name",
+    "placeholders": {
+      "name": {
+        "type": "String",
+        "example": "Customer name"
+      }
+    }
+  },
+  "selectProductToBuy": "Select Product to Buy",
+  "@selectProductToBuy": {
+    "description": "Label for product selection when buying"
+  },
+  "selectProductToSell": "Select Product to Sell",
+  "@selectProductToSell": {
+    "description": "Label for product selection when selling"
+  },
+  "quantity": "Quantity",
+  "@quantity": {
+    "description": "Quantity field label"
+  },
+  "quantityLabel": "Quantity",
+  "@quantityLabel": {
+    "description": "Label for quantity field"
+  },
+  "pricePerUnit": "Price per unit",
+  "@pricePerUnit": {
+    "description": "Price per unit field label"
+  },
+  "price": "Price",
+  "@price": {
+    "description": "Price field label"
+  },
+  "priceLabel": "Price",
+  "@priceLabel": {
+    "description": "Label for price field"
+  },
+  "buy": "Buy",
+  "@buy": {
+    "description": "Buy transaction type label"
+  },
+  "buyTooltip": "Buy",
+  "@buyTooltip": {
+    "description": "Tooltip for buy option"
+  },
+  "sell": "Sell",
+  "@sell": {
+    "description": "Sell transaction type label"
+  },
+  "sellTooltip": "Sell",
+  "@sellTooltip": {
+    "description": "Tooltip for sell option"
+  },
+  "noProductsFromCustomer": "No products available from this customer",
+  "@noProductsFromCustomer": {
+    "description": "Message when customer has no products to buy"
+  },
+  "noProductsToSell": "You have no products to sell",
+  "@noProductsToSell": {
+    "description": "Message when user has no products to sell"
+  },
+  "errorUserNotLoggedIn": "Error: User not logged in",
+  "@errorUserNotLoggedIn": {
+    "description": "Error message when user is not logged in"
+  },
+  "stockInfo": "Stock: {stock} | Sold: {sold} | Price: ${price}",
+  "@stockInfo": {
+    "description": "Stock information display format",
+    "placeholders": {
+      "stock": {
+        "type": "int",
+        "example": "10"
+      },
+      "sold": {
+        "type": "int",
+        "example": "5"
+      },
+      "price": {
+        "type": "int",
+        "example": "100"
+      }
+    }
+  },
+  "editProduct": "Edit Product",
+  "@editProduct": {
+    "description": "Edit product tooltip"
+  },
+  "productAddedSuccessfully": "Product added successfully",
+  "@productAddedSuccessfully": {
+    "description": "Success message when product is added"
+  },
+  "productUpdatedSuccessfully": "Product updated successfully",
+  "@productUpdatedSuccessfully": {
+    "description": "Success message when product is updated"
+  },
+  "productDeletedSuccessfully": "Product deleted successfully",
+  "@productDeletedSuccessfully": {
+    "description": "Success message when product is deleted"
+  },
+  "cancelButton": "Cancel",
+  "@cancelButton": {
+    "description": "Cancel button text"
+  },
+  "addTransactionButton": "Add Transaction",
+  "@addTransactionButton": {
+    "description": "Add transaction button text"
+  },
+  "buyingTransaction": "{product} - Buying",
+  "@buyingTransaction": {
+    "description": "Buying transaction label with product name",
+    "placeholders": {
+      "product": {
+        "type": "String",
+        "example": "Product name"
+      }
+    }
+  },
+  "sellingTransaction": "{product} - Selling",
+  "@sellingTransaction": {
+    "description": "Selling transaction label with product name",
+    "placeholders": {
+      "product": {
+        "type": "String",
+        "example": "Product name"
+      }
+    }
+  },
+  "customerLabel": "Customer: {name}",
+  "@customerLabel": {
+    "description": "Customer label with name",
+    "placeholders": {
+      "name": {
+        "type": "String",
+        "example": "Customer name"
+      }
+    }
+  },
+  "quantityAndPrice": "Quantity: {quantity} | Price: ${price}",
+  "@quantityAndPrice": {
+    "description": "Quantity and price display",
+    "placeholders": {
+      "quantity": {
+        "type": "int",
+        "example": "5"
+      },
+      "price": {
+        "type": "int",
+        "example": "100"
+      }
+    }
+  },
+  "dateLabel": "Date: {date}",
+  "@dateLabel": {
+    "description": "Date label with date",
+    "placeholders": {
+      "date": {
+        "type": "String",
+        "example": "2024-03-20"
+      }
+    }
+  },
+  "matched": "Matched",
+  "@matched": {
+    "description": "Matched status label"
+  },
+  "mismatched": "Mismatched",
+  "@mismatched": {
+    "description": "Mismatched status label"
+  },
+  "pending": "Pending",
+  "@pending": {
+    "description": "Pending status label"
+  },
+  "transactionStatistics": "Transaction Statistics",
+  "@transactionStatistics": {
+    "description": "Transaction statistics title"
+  },
+  "transactionStatusDistribution": "Transaction Status Distribution",
+  "@transactionStatusDistribution": {
+    "description": "Transaction status distribution title"
+  },
+  "transactionAmounts": "Transaction Amounts",
+  "@transactionAmounts": {
+    "description": "Transaction amounts title"
+  },
+  "totalTransactions": "Total Transactions",
+  "@totalTransactions": {
+    "description": "Total transactions label"
+  },
+  "matchedTransactions": "Matched Transactions",
+  "@matchedTransactions": {
+    "description": "Matched transactions label"
+  },
+  "mismatchedTransactions": "Mismatched Transactions",
+  "@mismatchedTransactions": {
+    "description": "Mismatched transactions label"
+  },
+  "totalAmount": "Total Amount",
+  "@totalAmount": {
+    "description": "Total amount label"
+  },
+  "noTransactionsYet": "No transactions yet",
+  "@noTransactionsYet": {
+    "description": "No transactions message"
+  },
+  "allTransactionsTooltip": "All Transactions",
+  "@allTransactionsTooltip": {
+    "description": "Tooltip for all transactions tab in reconciliation screen"
+  },
+  "matchedTransactionsTooltip": "Matched Transactions",
+  "@matchedTransactionsTooltip": {
+    "description": "Tooltip for matched transactions tab in reconciliation screen"
+  },
+  "mismatchedTransactionsTooltip": "Mismatched Transactions",
+  "@mismatchedTransactionsTooltip": {
+    "description": "Tooltip for mismatched transactions tab in reconciliation screen"
+  },
+  "unregistered": "Not Registered",
+  "@unregistered": {
+    "description": "Label for unregistered customers"
+  },
+  "unregisteredCustomerInfo": "This customer is not registered in the system. Transactions will remain in pending state.",
+  "@unregisteredCustomerInfo": {
+    "description": "Information about unregistered customer transactions"
+  },
+  "enterProductName": "Enter Product Name",
+  "@enterProductName": {
+    "description": "Label for manual product name entry"
+  },
+  "unregisteredCustomerNote": "Unregistered Customer",
+  "@unregisteredCustomerNote": {
+    "description": "Note showing this is an unregistered customer"
+  },
+  "buyingFromUnregistered": "Buying from unregistered customer",
+  "@buyingFromUnregistered": {
+    "description": "Title when buying from unregistered customer"
+  },
+  "transactionClassification": "Transaction Classification",
+  "@transactionClassification": {
+    "description": "Title for transaction classification section"
+  },
+  "all": "All",
+  "@all": {
+    "description": "Label for showing all transactions"
+  },
+  "noTransactionsFound": "No transactions found",
+  "@noTransactionsFound": {
+    "description": "Message shown when no transactions are found for the selected filter"
+  },
+  "cancelAction": "Cancel",
+  "@cancelAction": {
+    "description": "Cancel current action without deleting"
+  },
+  "deleteAction": "Remove",
+  "@deleteAction": {
+    "description": "Permanently remove/delete something"
+  },
+  "notRegisteredStatus": "Not Registered",
+  "@notRegisteredStatus": {
+    "description": "Status label for unregistered customers"
+  },
+  "unregisteredCustomerTitle": "Unregistered Customer",
+  "@unregisteredCustomerTitle": {
+    "description": "Title shown when dealing with unregistered customer"
+  },
+  "unregisteredCustomerStatus": "Not Registered",
+  "@unregisteredCustomerStatus": {
+    "description": "Status indicator for unregistered customers"
+  },
+  "manualTransactionNote": "Manual Transaction",
+  "@manualTransactionNote": {
+    "description": "Note indicating this is a manual transaction"
+  },
+  "enterManualProduct": "Enter Product Details",
+  "@enterManualProduct": {
+    "description": "Title for manual product entry"
+  },
+  "manualProductName": "Product Name",
+  "@manualProductName": {
+    "description": "Label for manual product name entry"
+  },
+  "addUnregisteredCustomer": "Add Unregistered Customer",
+  "@addUnregisteredCustomer": {
+    "description": "Title for adding unregistered customer"
+  },
+  "unregisteredTransactionsNote": "Transactions with unregistered customers remain in pending state",
+  "@unregisteredTransactionsNote": {
+    "description": "Note about transactions with unregistered customers"
+  },
+  "errorLoadingTransactions": "Error loading transactions: {error}",
+  "@errorLoadingTransactions": {
+    "description": "Error message when loading transactions fails",
+    "placeholders": {
+      "error": {
+        "type": "String",
+        "example": "Network error"
+      }
+    }
+  },
+  "unregisteredTransactions": "Unregistered Transactions",
+  "@unregisteredTransactions": {
+    "description": "Unregistered transactions label"
+  },
+  "unregisteredTransactionsTooltip": "Unregistered Transactions",
+  "@unregisteredTransactionsTooltip": {
+    "description": "Tooltip for unregistered transactions in statistics"
+  },
+  "errorLoadingStatistics": "Failed to load statistics: {error}",
+  "@errorLoadingStatistics": {
+    "description": "Error message shown when statistics fail to load",
+    "placeholders": {
+      "error": {
+        "type": "String",
+        "example": "Network error"
+      }
+    }
+  },
+  "login": "Login",
+  "@login": {
+    "description": "Login screen title"
+  },
+  "welcomeBack": "Welcome Back",
+  "@welcomeBack": {
+    "description": "Welcome message on login screen"
+  },
+  "emailOrUsername": "Email or Username",
+  "@emailOrUsername": {
+    "description": "Label for email/username input field"
+  },
+  "password": "Password",
+  "@password": {
+    "description": "Label for password input field"
+  },
+  "hidePassword": "Hide password",
+  "@hidePassword": {
+    "description": "Tooltip for hiding password"
+  },
+  "showPassword": "Show password",
+  "@showPassword": {
+    "description": "Tooltip for showing password"
+  },
+  "signIn": "Sign In",
+  "@signIn": {
+    "description": "Sign in button text"
+  },
+  "signUp": "Sign Up",
+  "@signUp": {
+    "description": "Sign up button text"
+  },
+  "dontHaveAccount": "Don't have an account? Sign up",
+  "@dontHaveAccount": {
+    "description": "Text for sign up link"
+  },
+  "loginFailed": "Login failed. Please check your credentials and try again.",
+  "@loginFailed": {
+    "description": "Error message shown when login fails"
+  },
+  "invalidCredentials": "Invalid username or email",
+  "@invalidCredentials": {
+    "description": "Error message for invalid credentials"
+  },
+  "createAccount": "Create Account",
+  "@createAccount": {
+    "description": "Title for signup screen"
+  },
+  "username": "Username",
+  "@username": {
+    "description": "Label for username field"
+  },
+  "email": "Email",
+  "@email": {
+    "description": "Label for email field"
+  },
+  "alreadyHaveAccount": "Already have an account? Sign In",
+  "@alreadyHaveAccount": {
+    "description": "Text for sign in link"
+  },
+  "allFieldsRequired": "All fields are required",
+  "@allFieldsRequired": {
+    "description": "Error message when fields are empty"
+  },
+  "usernameMinLength": "Username must be at least 3 characters long",
+  "@usernameMinLength": {
+    "description": "Error message for username length"
+  },
+  "usernameFormat": "Username can only contain letters, numbers, and underscores",
+  "@usernameFormat": {
+    "description": "Error message for username format"
+  },
+  "invalidEmail": "Please enter a valid email address",
+  "@invalidEmail": {
+    "description": "Error message for invalid email"
+  },
+  "passwordMinLength": "Password must be at least 6 characters long",
+  "@passwordMinLength": {
+    "description": "Error message for password length"
+  }
+} 

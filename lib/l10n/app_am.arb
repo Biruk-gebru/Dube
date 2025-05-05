@@ -1,0 +1,281 @@
+{
+  "appTitle": "ዱቤ",
+  "darkMode": "ጥቁር ሁነታ",
+  "language": "ቋንቋ",
+  "english": "እንግሊዘኛ",
+  "amharic": "አማርኛ",
+  "settings": "ማስተካከያዎች",
+  "profile": "መገለጫ",
+  "logout": "ውጣ",
+  "close": "ዝጋ",
+  "products": "ምርቶች",
+  "customers": "ደንበኞች",
+  "reconciliation": "እርቅ",
+  "summary": "ማጠቃለያ",
+  "myCustomers": "የእኔ ደንበኞች",
+  "addCustomers": "ደንበኞችን ጨምር",
+  "noProductsYet": "እስካሁን ምንም ምርቶች የሉም",
+  "noCustomersYet": "እስካሁን ምንም ደንበኞች የሉም",
+  "addProduct": "ምርት ጨምር",
+  "editProduct": "ምርት አርትዕ",
+  "deleteProduct": "ምርት ሰርዝ",
+  "confirmDeleteProduct": "{name}ን መሰረዝ እርግጠኛ ነዎት?",
+  "name": "ስም",
+  "stock": "ክምችት",
+  "price": "ዋጋ",
+  "cancel": "ተወው",
+  "add": "ጨምር",
+  "save": "አስቀምጥ",
+  "delete": "አጥፋ",
+  "pleaseEnterName": "እባክዎ ስም ያስገቡ",
+  "pleaseEnterStock": "እባክዎ የክምችት መጠን ያስገቡ",
+  "pleaseEnterValidNumber": "እባክዎ ትክክለኛ ቁጥር ያስገቡ",
+  "pleaseEnterPrice": "እባክዎ ዋጋ ያስገቡ",
+  "errorLoadingProducts": "ምርቶችን በመጫን ላይ ስህተት: {error}",
+  "errorAddingProduct": "ምርት በመጨመር ላይ ስህተት: {error}",
+  "errorUpdatingProduct": "ምርት በማዘመን ላይ ስህተት: {error}",
+  "errorDeletingProduct": "ምርት በመሰረዝ ላይ ስህተት: {error}",
+  "confirmDeleteCustomer": "{name}ን ከደንበኞችዎ ለማስወገድ እርግጠኛ ነዎት?",
+  "customerRemoved": "{name} ከደንበኞች ተወግዷል",
+  "errorRemovingCustomer": "ደንበኛን በማስወገድ ላይ ስህተት: {error}",
+  "searchUsers": "ተጠቃሚዎችን ይፈልጉ",
+  "noUsersFound": "ምንም ተጠቃሚዎች አልተገኙም",
+  "noUsersMatchSearch": "ፍለጋዎን የሚዛመዱ ተጠቃሚዎች የሉም",
+  "customer": "ደንበኛ",
+  "confirm": "አረጋግጥ",
+  "addTransaction": "ግብይት ጨምር",
+  "errorAddingTransaction": "ግብይት በመጨመር ላይ ስህተት: {error}",
+  "transactionAddedSuccessfully": "ግብይት በተሳካ ሁኔታ ተጨምሯል",
+  "failedToAddTransaction": "ግብይት መጨመር አልተሳካም። እባክዎ እንደገና ይሞክሩ።",
+  "editCustomer": "ደንበኛን አርትዕ",
+  "deleteCustomer": "ደንበኛ ሰርዝ",
+  "addCustomer": "ደንበኛ ጨምር",
+  "phoneNumber": "ስልክ ቁጥር",
+  "update": "አዘምን",
+  "errorUpdatingCustomer": "ደንበኛን በማዘመን ላይ ስህተት: {error}",
+  "errorDeletingCustomer": "ደንበኛን በመሰረዝ ላይ ስህተት: {error}",
+  "errorAddingCustomer": "ደንበኛን በመጨመር ላይ ስህተት: {error}",
+  "errorLoadingCustomers": "ደንበኞችን በመጫን ላይ ስህተት: {error}",
+  "customerAlreadyExists": "{name} አስቀድሞ ደንበኛዎ ነው",
+  "customerAdded": "{name} እንደ ደንበኛ ተጨምሯል",
+  "transactionWith": "ከ{name} ጋር ግብይት",
+  "selectProductToBuy": "ለመግዛት ምርት ይምረጡ",
+  "selectProductToSell": "ለመሸጥ ምርት ይምረጡ",
+  "quantity": "ብዛት",
+  "pricePerUnit": "በአንድ ዋጋ",
+  "buy": "ግዛ",
+  "sell": "ሽጥ",
+  "noProductsFromCustomer": "ከዚህ ደንበኛ የሚገኝ ምንም ምርት የለም",
+  "noProductsToSell": "ለመሸጥ ምንም ምርቶች የሎትም",
+  "errorUserNotLoggedIn": "ስህተት: ተጠቃሚው አልገባም",
+  "stockInfo": "ክምችት: {stock} | የተሸጠ: {sold} | ዋጋ: ${price}",
+  "productAddedSuccessfully": "ምርት በተሳካ ሁኔታ ተጨምሯል",
+  "productUpdatedSuccessfully": "ምርት በተሳካ ሁኔታ ተዘምኗል",
+  "productDeletedSuccessfully": "ምርት በተሳካ ሁኔታ ተሰርዟል",
+  
+  "addProductTooltip": "አዲስ ምርት ጨምር",
+  "editProductTooltip": "ምርት አስተካክል",
+  "addCustomerTooltip": "አዲስ ደንበኛ ጨምር",
+  "addTransactionTooltip": "አዲስ ግብይት ጨምር",
+  
+  "totalTransactions": "ጠቅላላ ግብይቶች",
+  "matchedTransactions": "የተዛመዱ ግብይቶች",
+  "mismatchedTransactions": "ያልተዛመዱ ግብይቶች",
+  "totalAmount": "ጠቅላላ መጠን",
+  "transactionStatistics": "የግብይት ስታትስቲክስ",
+  "transactionStatusDistribution": "የግብይት ሁኔታ ስርጭት",
+  
+  "noTransactionsYet": "እስካሁን ምንም ግብይቶች የሉም",
+  "transactionType": "የግብይት አይነት",
+  "buyingTransaction": "{product} - መግዛት",
+  "@buyingTransaction": {
+    "description": "Buying transaction label with product name",
+    "placeholders": {
+      "product": {
+        "type": "String",
+        "example": "Product name"
+      }
+    }
+  },
+  "sellingTransaction": "{product} - መሸጥ",
+  "@sellingTransaction": {
+    "description": "Selling transaction label with product name",
+    "placeholders": {
+      "product": {
+        "type": "String",
+        "example": "Product name"
+      }
+    }
+  },
+  "customerLabel": "ደንበኛ: {name}",
+  "@customerLabel": {
+    "description": "Customer label with name",
+    "placeholders": {
+      "name": {
+        "type": "String",
+        "example": "Customer name"
+      }
+    }
+  },
+  "quantityAndPrice": "ብዛት: {quantity} | ዋጋ: ${price}",
+  "@quantityAndPrice": {
+    "description": "Quantity and price display",
+    "placeholders": {
+      "quantity": {
+        "type": "int",
+        "example": "5"
+      },
+      "price": {
+        "type": "int",
+        "example": "100"
+      }
+    }
+  },
+  "dateLabel": "ቀን: {date}",
+  "@dateLabel": {
+    "description": "Date label with date",
+    "placeholders": {
+      "date": {
+        "type": "String",
+        "example": "2024-03-20"
+      }
+    }
+  },
+  "matched": "ተዛምዷል",
+  "@matched": {
+    "description": "Matched status label"
+  },
+  "mismatched": "አልተዛመደም",
+  "@mismatched": {
+    "description": "Mismatched status label"
+  },
+  "pending": "በመጠባበቅ ላይ",
+  "@pending": {
+    "description": "Pending status label"
+  },
+
+  "myCustomersTooltip": "የእኔ ደንበኞች",
+  "addCustomersTooltip": "ደንበኞችን ጨምር",
+  "allUsersTooltip": "ሁሉም ተጠቃሚዎች",
+  "addTransactionTooltip": "ግብይት ጨምር",
+
+  "transactionStatistics": "የግብይት ስታትስቲክስ",
+  "@transactionStatistics": {
+    "description": "Transaction statistics title"
+  },
+  "transactionStatusDistribution": "የግብይት ሁኔታ ስርጭት",
+  "@transactionStatusDistribution": {
+    "description": "Transaction status distribution title"
+  },
+  "transactionAmounts": "የግብይት መጠኖች",
+  "@transactionAmounts": {
+    "description": "Transaction amounts title"
+  },
+  "totalTransactions": "ጠቅላላ ግብይቶች",
+  "@totalTransactions": {
+    "description": "Total transactions label"
+  },
+  "matchedTransactions": "የተዛመዱ ግብይቶች",
+  "@matchedTransactions": {
+    "description": "Matched transactions label"
+  },
+  "mismatchedTransactions": "ያልተዛመዱ ግብይቶች",
+  "@mismatchedTransactions": {
+    "description": "Mismatched transactions label"
+  },
+  "totalAmount": "ጠቅላላ መጠን",
+  "@totalAmount": {
+    "description": "Total amount label"
+  },
+  "noTransactionsYet": "እስካሁን ምንም ግብይቶች የሉም",
+  "@noTransactionsYet": {
+    "description": "No transactions message"
+  },
+  "allTransactionsTooltip": "ሁሉም",
+  "matchedTransactionsTooltip": "የተዛመዱ",
+  "mismatchedTransactionsTooltip": "ያልተዛመዱ",
+
+  "buyTooltip": "ግዛ",
+  "sellTooltip": "ሽጥ",
+  "quantityLabel": "ብዛት",
+  "priceLabel": "ዋጋ",
+  "addTransactionButton": "ግብይት ጨምር",
+  "cancelButton": "ሰርዝ",
+
+  "buyingTransaction": "{product} - መግዛት",
+  "sellingTransaction": "{product} - መሸጥ",
+  "customerLabel": "ደንበኛ: {name}",
+  "quantityAndPrice": "ብዛት: {quantity} | ዋጋ: ${price}",
+  "dateLabel": "ቀን: {date}",
+
+  "matched": "ተዛምዷል",
+  "mismatched": "አልተዛመደም",
+  "pending": "በመጠባበቅ ላይ",
+
+  "errorLoadingStatistics": "ስታትስቲክስ መጫን አልተቻለም: {error}",
+  "@errorLoadingStatistics": {
+    "description": "Error message shown when statistics fail to load",
+    "placeholders": {
+      "error": {
+        "type": "String",
+        "example": "Network error"
+      }
+    }
+  },
+  "errorAddingTransaction": "ግብይት ማከል አልተቻለም: {error}",
+  "@errorAddingTransaction": {
+    "description": "Error message shown when adding a transaction fails",
+    "placeholders": {
+      "error": {
+        "type": "String",
+        "example": "Network error"
+      }
+    }
+  },
+
+  "transactionClassification": "የግብይት ምደባ",
+  "all": "ሁሉም",
+  "noTransactionsFound": "ምንም ግብይት አልተገኘም",
+  "cancelAction": "ተወው",
+  "deleteAction": "አስወግድ",
+  "unregistered": "ያልተመዘገበ",
+  "notRegisteredStatus": "ያልተመዘገበ",
+
+  "unregisteredCustomerTitle": "ያልተመዘገበ ደንበኛ",
+  "unregisteredCustomerStatus": "ያልተመዘገበ",
+  "unregisteredCustomerInfo": "ይህ ደንበኛ በስርዓቱ ውስጥ አልተመዘገበም። ግብይቶች በመጠባበቅ ሁኔታ ይቆያሉ።",
+  "manualTransactionNote": "በእጅ የተሰራ ግብይት",
+  "enterManualProduct": "የምርት ዝርዝሮችን ያስገቡ",
+  "manualProductName": "የምርት ስም",
+  "addUnregisteredCustomer": "ያልተመዘገበ ደንበኛ ጨምር",
+  "unregisteredTransactionsNote": "ከያልተመዘገቡ ደንበኞች ጋር የሚደረጉ ግብይቶች በመጠባበቅ ሁኔታ ይቆያሉ",
+  "errorLoadingTransactions": "ግብይቶችን በመጫን ላይ ስህተት: {error}",
+  "unregisteredTransactions": "ያልተመዘገቡ ግብይቶች",
+  "@unregisteredTransactions": {
+    "description": "Unregistered transactions label"
+  },
+  "unregisteredTransactionsTooltip": "ያልተመዘገቡ ግብይቶች",
+  "@unregisteredTransactionsTooltip": {
+    "description": "Tooltip for unregistered transactions in statistics"
+  },
+  "login": "ግባ",
+  "welcomeBack": "እንኳን ደህና መጡ",
+  "emailOrUsername": "ኢሜይል ወይም የተጠቃሚ ስም",
+  "password": "የይለፍ ቃል",
+  "hidePassword": "የይለፍ ቃል ደብቅ",
+  "showPassword": "የይለፍ ቃል አሳይ",
+  "signIn": "ግባ",
+  "signUp": "ተመዝገብ",
+  "dontHaveAccount": "መለያ የለዎትም? ይመዝገቡ",
+  "loginFailed": "መግባት አልተሳካም። እባክዎ መረጃዎችዎን ያረጋግጡና እንደገና ይሞክሩ።",
+  "invalidCredentials": "የተሳሳተ የተጠቃሚ ስም ወይም ኢሜይል",
+  "createAccount": "መለያ ፍጠር",
+  "username": "የተጠቃሚ ስም",
+  "email": "ኢሜይል",
+  "alreadyHaveAccount": "መለያ አለዎት? ይግቡ",
+  "allFieldsRequired": "ሁሉም መስኮች አስፈላጊ ናቸው",
+  "usernameMinLength": "የተጠቃሚ ስም ቢያንስ 3 ፊደላት መሆን አለበት",
+  "usernameFormat": "የተጠቃሚ ስም ፊደላት፣ ቁጥሮች እና ከስር መስመር ብቻ መሆን አለበት",
+  "invalidEmail": "እባክዎ ትክክለኛ የኢሜይል አድራሻ ያስገቡ",
+  "passwordMinLength": "የይለፍ ቃል ቢያንስ 6 ፊደላት መሆን አለበት"
+} 
